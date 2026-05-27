@@ -69,6 +69,22 @@ Developing multilayer models of cybercrime organizational resilience by analyzin
 
 [View all publications](publications.qmd)
 
+## Peer Review and Program Committee Service
+
+### Journal Reviewing
+
+- **Decision Support Systems**  
+  Journal reviewer.
+
+### Program Committee / Workshop Reviewing
+
+- **WEIS** -- Workshop on the Economics of Information Security  
+  Program committee / reviewer.
+
+- **NDSS Workshop on AI Systems with Confidential Computing**  
+  Program committee / reviewer.
+
+
 <!--
 ## Selected Talks
 

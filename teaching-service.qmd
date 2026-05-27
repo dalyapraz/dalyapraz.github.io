@@ -1,3 +1,84 @@
 ---
 title: "Teaching & Service"
 ---
+## Teaching
+
+### Indiana University
+
+- **I231 Mathematics of Cybersecurity / Introduction to Cryptography**  
+  **Lead Associate Instructor**, Spring 2023  
+  **Associate Instructor**, Spring 2022, Spring 2026  
+  This course introduces students to mathematical and programming tools used in modern security research and practice, including functional programming, probability theory, analysis of algorithms, complexity theory, number theory, and group theory.  
+  As Lead Associate Instructor, I managed teaching assistants, designed assignments, prepared homework solutions, held office hours, graded homework and exams, and occasionally taught class sessions. 
+  As Associate Instructor, I graded homework, quizzes, and exams; held office hours; and prepared homework solutions.
+
+- **I535 Economics of Information Security**  
+  **Lead Associate Instructor**, Fall 2024  
+  **Associate Instructor**, Fall 2022  
+  This graduate seminar examines economic measures of cybercrime, interactions among actors and institutions involved in cybercrime, risk perception, usability, privacy, and rational evaluation of risk in e-crime contexts. I supported students in navigating current research and theoretical perspectives on cybercrime and information security economics.  
+  As Lead Associate Instructor, I managed teaching assistants, designed assignments, prepared solutions, held office hours, graded homework and exams, and occasionally manages class discussion sessions. 
+  As Associate Instructor, I graded assignments and exams, held office hours, and supported student learning.
+
+- **I495 Design and Development of Information Systems**  
+  **Associate Instructor**, Fall 2020 and Spring 2021  
+  This capstone course guides senior students through the full cycle of system development in teams, including project scoping, user evaluation, front-end and back-end development, testing, and presentation of a working system. 
+  As Associate Instructor,I met weekly with student groups, tracked project progress, consulted on development challenges, and helped teams translate start-up-style ideas into feasible and usable information systems. One of the teams I mentored, [**Arts at IU**](https://zion.luddy.indiana.edu/info-capstone-2021/arts-at-iu#project), received the **Top Project Recognition Award** in 2021.
+
+### California State University, Los Angeles
+
+- **Fundamentals of Information Systems**  
+  **Teaching Assistant**, Fall 2018 and Spring 2019  
+  Supported instruction, grading, and student learning in an introductory information systems course.
+
+## Guest Lectures
+
+- **The Business of Cybercrime: Detection, Resilience, Relationships**  
+  Guest Lecturer, Management Information Systems, California State University, Los Angeles, October 2025.
+
+- **Marketplaces: History and Trends in Cryptomarkets**  
+  Guest Lecturer, Economics of Information Security, Indiana University, November 2024.
+
+- **Exploring Social Network of Trust Across Major Crime Types in an Underground Forum**  
+  Guest Lecturer, Management Information Systems, California State University, Los Angeles, January 2023.
+
+## Mentoring
+
+- **[Maksat Sharshekeev](https://www.linkedin.com/in/maksat-sharshekeev)**  
+  Undergraduate Research Opportunities in Computing, Indiana University, Fall 2023  
+  Mentored undergraduate research on qualitative coding, conversation analysis, and social network analysis.
+  - Maksat Sharshekeev, Dalya Manatova, and L. Jean Camp. “Cybercriminal Organized Group: Social Network of a Hacker.” Research Poster Panel, Indiana University, 2023.
+
+- **[Nadia Sabry](https://www.linkedin.com/in/nadiasabry)**  
+  Undergraduate Research Opportunities in Computing, Indiana University, 2022--2023  
+  Mentored undergraduate research on extracting organizational structure from textual communications.
+  - Nadia Sabry, Dalya Manatova, and L. Jean Camp. “Uncovering the Organizational Hierarchy of a Cybercriminal Group: Story of a Ransomware Gang.” Research Poster Panel, Indiana University, 2023.
+
+## Peer Review and Program Committee Service
+
+### Journal Reviewing
+
+- **Decision Support Systems**  
+  Journal reviewer.
+
+### Program Committee / Workshop Reviewing
+
+- **WEIS** -- Workshop on the Economics of Information Security  
+  Program committee / reviewer.
+
+- **NDSS Workshop on AI Systems with Confidential Computing**  
+  Program committee / reviewer.
+
+
+## Volunteering and Outreach
+
+- **Design Thinking Class, California State University, Los Angeles**  
+  Project Mentor for M.S. Information Systems and MBA students, 2021.
+
+- **Data Science Course, Data Application Lab**  
+  Project Tutor, 2019--2020.
+
+- **SheLovesData**  
+  Python and SQL Instructor, 2019--2021.
+
+- **International Data Engineering and Science Association (IDEAS)**  
+  Community Manager, 2018--2020.

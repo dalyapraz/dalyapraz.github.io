@@ -2,7 +2,7 @@
 title: "CV"
 ---
 
-You can view my current CV below or download it directly.
+Last updated: May 2026.
 
 [Download CV](files/dalya_manatova_cv.pdf){.btn .btn-primary target="_blank"}
 
