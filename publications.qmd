@@ -1,3 +1,67 @@
 ---
 title: "Publications"
 ---
+
+## Preprints
+
+- [**Community Concealment from Unsupervised Graph Learning-Based Clustering**](https://arxiv.org/abs/2602.12250)  
+  Dalyapraz Manatova, Pablo Moriano, and L. Jean Camp  
+  *arXiv preprint*, 2026.  
+
+
+
+## Journal Articles
+
+- [**The Organizational Anatomy of Cybercrime: A Multilayer Framework for Modeling Resilience**](https://doi.org/10.1093/cybsec/tyag014)  
+  Dalya Manatova, Cathleen McGrath, and L. Jean Camp  
+  *Journal of Cybersecurity*, in press.  
+
+
+- [**Understand Your Shady Neighborhood: An Approach for Detecting and Investigating Hacker Communities**](https://doi.org/10.1016/j.dss.2024.114271)  
+  Dalya Manatova, Charles DeVries, and Sagar Samtani  
+  *Decision Support Systems*, 184, 114271, 2024.  
+
+
+- [**Big Data Analysis and Prediction of Traffic in Los Angeles**](https://doi.org/10.3837/tiis.2020.02.021)  
+  Dalya Manatova and Jongwook Woo  
+  *KSII Transactions on Internet and Information Systems*, 14(2), 841--854, 2020.  
+
+
+## Conference Proceedings
+
+- [**From Lamborghinis to Ladas: Empirical Analysis of LockBit's Business Operations**](https://doi.org/10.1109/eCrime66972.2025.11327913)  
+  Ian W. Gray, Dalyapraz Manatova, Kris Oosthoek, and Damon McCoy  
+  *APWG Symposium on Electronic Crime Research (eCrime)*, 2025.  
+
+
+- [**Is Ransomware an Economically Distinct Attack Type? An Event Study of Market Reactions**](https://doi.org/10.1109/eCrime66972.2025.11327977)  
+  Ambarish Gurjar, Dalyapraz Manatova, Benjamin Staples, Spencer Chambers, and L. Jean Camp  
+  *APWG Symposium on Electronic Crime Research (eCrime)*, 2025.  
+
+
+- [**An Argument for Linguistic Expertise in Cyberthreat Analysis: LOLSec in Russian Language eCrime Landscape**](https://doi.org/10.1109/EuroSPW59978.2023.00024)  
+  Dalyapraz Manatova, L. Jean Camp, Julia R. Fox, Sandra Kuebler, Maria A. Shardakova, and Inna Kouper  
+  *IEEE European Symposium on Security and Privacy Workshops (EuroS&PW)*, 2023.  
+
+
+- [**Building and Testing a Network of Social Trust in an Underground Forum: Robust Connections and Overlapping Criminal Domains**](https://doi.org/10.1109/eCrime57793.2022.10142120)  
+  Dalyapraz Manatova, Dewesha Sharma, Sagar Samtani, and L. Jean Camp  
+  *APWG Symposium on Electronic Crime Research (eCrime)*, 2022.  
+
+
+- [**Machine Learning vs. Deep Learning on a Tabular Traffic Dataset in Big Data**](https://www.calstatela.edu/sites/default/files/multiclassMLDLTabularTrafficDataAPIC-IST_2023.pdf)  
+  Dalyapraz Manatova and Jongwook Woo  
+  *KSII Asia Pacific International Conference on Information Science and Technology (APIC-IST)*, 2023.  
+
+
+- [**Designing a Vulnerability Management Dashboard to Enhance Security Analysts' Decision-Making Processes**](https://doi.org/10.1145/3491418.3535176)  
+  Dalyapraz Manatova, Inna Kouper, and Sagar Samtani  
+  *Practice and Experience in Advanced Research Computing (PEARC)*, 2022.  
+
+
+## Dissertation
+
+- [**Modeling Resilience in Cybercrime Networks**](https://www.proquest.com/docview/3329525700)  
+  Dalyapraz Manatova  
+  Ph.D. Dissertation, Indiana University, 2026.  
+  Committee: L. Jean Camp, Inna Kouper, Cathleen McGrath, Filippo Radicchi, and Cici Ling.

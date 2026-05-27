@@ -14,60 +14,11 @@
     "text": "Research Areas\n\nGraph Learning, Community Detection, and Group Privacy\nI study how groups are detected, clustered, and concealed in attributed networks, including adversarial community hiding from graph-learning-based clustering.\n\n\nOpen-Source Software Coordination\nI model patch review workflows, maintainer coordination, contributor specialization, and vulnerability exposure in open-source software communities.\n\n\nCybercrime Organizations and Resilience\nI model cybercriminal collectives as organizational and networked systems, with attention to structure, specialization, norms, shared goals, and relationships.\n\n\nComputational Organizational Science\nI combine network analysis, computational linguistics, graph learning, and theory-informed qualitative methods to study collective behavior in adversarial and socio-technical systems."
   },
   {
-    "objectID": "index.html#selected-publications",
-    "href": "index.html#selected-publications",
-    "title": "Dalya Manatova",
-    "section": "Selected Publications",
-    "text": "Selected Publications\n\nManatova, D., McGrath, C., & Camp, L. J. In press. “The Organizational Anatomy of Cybercrime: A Multilayer Framework for Modeling Resilience.” Journal of Cybersecurity. https://doi.org/10.1093/cybsec/tyag014\nManatova, D., DeVries, C., & Samtani, S. 2024. “Understand Your Shady Neighborhood: An Approach for Detecting and Investigating Hacker Communities.” Decision Support Systems.\nManatova, D., Sharma, D., Samtani, S., & Camp, L. J. 2022. “Building and Testing a Network of Social Trust in an Underground Forum.” APWG eCrime.\n\nView all publications"
-  },
-  {
     "objectID": "index.html#current-projects",
     "href": "index.html#current-projects",
     "title": "Dalya Manatova",
     "section": "Current Projects",
     "text": "Current Projects\n\nTemporal Graphs of OSS Patch Review Workflows\nModeling patch review, maintainer coordination, contributor specialization, and socio-technical dependencies in Linux kernel development.\n\n\nCommunity Hiding from Graph Learning-Based Clustering\nStudying how groups can evade or resist GNN-based community detection in attributed networks, with implications for group privacy, surveillance, and adversarial adaptation.\n\n\nRansomware Operations and Supply-Chain Simulation\nDeveloping simulation models of ransomware operations to better understand cybercrime supply chains, task interdependencies, disruption, and operational recovery.\n\n\nOrganizational Anatomy of Cybercrime\nDeveloping multilayer models of cybercrime organizational resilience by analyzing structure, specialization, rules and norms, shared goals, and relationship dynamics."
-  },
-  {
-    "objectID": "index.html#contact",
-    "href": "index.html#contact",
-    "title": "Dalya Manatova",
-    "section": "Contact",
-    "text": "Contact\nEmail: dalya.manatova@charlotte.edu"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "Dalya Manatova",
-    "section": "",
-    "text": "I study how adversarial and socio-technical communities organize, persist, and adapt using network science, graph learning, and computational organizational analysis.\nCV · Publications · Google Scholar · GitHub · Email"
-  },
-  {
-    "objectID": "about.html#research-areas",
-    "href": "about.html#research-areas",
-    "title": "Dalya Manatova",
-    "section": "Research Areas",
-    "text": "Research Areas\n\nGraph Learning, Community Detection, and Group Privacy\nI study how groups are detected, clustered, and concealed in attributed networks, including adversarial community hiding from graph-learning-based clustering.\n\n\nOpen-Source Software Coordination\nI model patch review workflows, maintainer coordination, contributor specialization, and vulnerability exposure in open-source software communities.\n\n\nCybercrime Organizations and Resilience\nI model cybercriminal collectives as organizational and networked systems, with attention to structure, specialization, norms, shared goals, and relationships.\n\n\nComputational Organizational Science\nI combine network analysis, computational linguistics, graph learning, and theory-informed qualitative methods to study collective behavior in adversarial and socio-technical systems."
-  },
-  {
-    "objectID": "about.html#selected-publications",
-    "href": "about.html#selected-publications",
-    "title": "Dalya Manatova",
-    "section": "Selected Publications",
-    "text": "Selected Publications\n\nManatova, D., McGrath, C., & Camp, L. J. In press. “The Organizational Anatomy of Cybercrime: A Multilayer Framework for Modeling Resilience.” Journal of Cybersecurity. https://doi.org/10.1093/cybsec/tyag014\nManatova, D., DeVries, C., & Samtani, S. 2024. “Understand Your Shady Neighborhood: An Approach for Detecting and Investigating Hacker Communities.” Decision Support Systems.\nManatova, D., Sharma, D., Samtani, S., & Camp, L. J. 2022. “Building and Testing a Network of Social Trust in an Underground Forum.” APWG eCrime.\n\nView all publications"
-  },
-  {
-    "objectID": "about.html#current-projects",
-    "href": "about.html#current-projects",
-    "title": "Dalya Manatova",
-    "section": "Current Projects",
-    "text": "Current Projects\n\nTemporal Graphs of OSS Patch Review Workflows\nModeling patch review, maintainer coordination, and contributor specialization in Linux kernel development.\n\n\nCommunity Hiding from Graph Learning-Based Clustering\nStudying how groups can evade GNN-based community detection in attributed networks.\n\n\nOrganizational Anatomy of Cybercrime\nDeveloping multilayer models of cybercrime organizational resilience."
-  },
-  {
-    "objectID": "about.html#contact",
-    "href": "about.html#contact",
-    "title": "Dalya Manatova",
-    "section": "Contact",
-    "text": "Contact\nEmail: dmanato@iu.edu"
   },
   {
     "objectID": "index.html#selected-publications-and-preprints",
@@ -77,10 +28,52 @@
     "text": "Selected Publications and Preprints\n\nManatova, D., McGrath, C., & Camp, L. J. In press. “The Organizational Anatomy of Cybercrime: A Multilayer Framework for Modeling Resilience.” Journal of Cybersecurity. https://doi.org/10.1093/cybsec/tyag014\nManatova, D., Moriano, P., & Camp, L. J. 2026. “Community Concealment from Unsupervised Graph Learning-Based Clustering.” arXiv. https://arxiv.org/abs/2602.12250\nManatova, D., DeVries, C., & Samtani, S. 2024. “Understand Your Shady Neighborhood: An Approach for Detecting and Investigating Hacker Communities.” Decision Support Systems.\nManatova, D., Camp, L. J., Fox, J. R., Kuebler, S., Shardakova, M. A., & Kouper, I. 2023. “An Argument for Linguistic Expertise in Cyberthreat Analysis: LOLSec in Russian Language eCrime Landscape.” IEEE European Symposium on Security and Privacy Workshops.\nManatova, D., Sharma, D., Samtani, S., & Camp, L. J. 2022. “Building and Testing a Network of Social Trust in an Underground Forum: Robust Connections and Overlapping Criminal Domains.” APWG Symposium on Electronic Crime Research.\n\nView all publications\n\nView all talks"
   },
   {
-    "objectID": "index.html#selected-talks",
-    "href": "index.html#selected-talks",
+    "objectID": "index.html#contact",
+    "href": "index.html#contact",
     "title": "Dalya Manatova",
-    "section": "Selected Talks",
-    "text": "Selected Talks\n\nBlack Hat USA 2024, “Relationships Matter: Reconstructing the Organizational Structure of a Ransomware Group.”\nCybersecurity at MIT Sloan, CAMS.\nCambridge Cybercrime Conference.\nAPWG Symposium on Electronic Crime Research.\nWorkshop on the Economics of Information Security.\nOak Ridge National Laboratory, Mathematics in Computation Seminar Series.\n\nView all talks"
+    "section": "Contact",
+    "text": "Contact\nEmail: dalya.manatova@charlotte.edu"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Community Concealment from Unsupervised Graph Learning-Based Clustering\nDalyapraz Manatova, Pablo Moriano, and L. Jean Camp\narXiv preprint, 2026."
+  },
+  {
+    "objectID": "publications.html#preprints",
+    "href": "publications.html#preprints",
+    "title": "Publications",
+    "section": "",
+    "text": "Community Concealment from Unsupervised Graph Learning-Based Clustering\nDalyapraz Manatova, Pablo Moriano, and L. Jean Camp\narXiv preprint, 2026."
+  },
+  {
+    "objectID": "publications.html#journal-articles",
+    "href": "publications.html#journal-articles",
+    "title": "Publications",
+    "section": "Journal Articles",
+    "text": "Journal Articles\n\nThe Organizational Anatomy of Cybercrime: A Multilayer Framework for Modeling Resilience\nDalya Manatova, Cathleen McGrath, and L. Jean Camp\nJournal of Cybersecurity, in press.\nUnderstand Your Shady Neighborhood: An Approach for Detecting and Investigating Hacker Communities\nDalya Manatova, Charles DeVries, and Sagar Samtani\nDecision Support Systems, 184, 114271, 2024.\nBig Data Analysis and Prediction of Traffic in Los Angeles\nDalya Manatova and Jongwook Woo\nKSII Transactions on Internet and Information Systems, 14(2), 841–854, 2020."
+  },
+  {
+    "objectID": "publications.html#conference-proceedings",
+    "href": "publications.html#conference-proceedings",
+    "title": "Publications",
+    "section": "Conference Proceedings",
+    "text": "Conference Proceedings\n\nFrom Lamborghinis to Ladas: Empirical Analysis of LockBit’s Business Operations\nIan W. Gray, Dalyapraz Manatova, Kris Oosthoek, and Damon McCoy\nAPWG Symposium on Electronic Crime Research (eCrime), 2025.\nIs Ransomware an Economically Distinct Attack Type? An Event Study of Market Reactions\nAmbarish Gurjar, Dalyapraz Manatova, Benjamin Staples, Spencer Chambers, and L. Jean Camp\nAPWG Symposium on Electronic Crime Research (eCrime), 2025.\nAn Argument for Linguistic Expertise in Cyberthreat Analysis: LOLSec in Russian Language eCrime Landscape\nDalyapraz Manatova, L. Jean Camp, Julia R. Fox, Sandra Kuebler, Maria A. Shardakova, and Inna Kouper\nIEEE European Symposium on Security and Privacy Workshops (EuroS&PW), 2023.\nBuilding and Testing a Network of Social Trust in an Underground Forum: Robust Connections and Overlapping Criminal Domains\nDalyapraz Manatova, Dewesha Sharma, Sagar Samtani, and L. Jean Camp\nAPWG Symposium on Electronic Crime Research (eCrime), 2022.\nMachine Learning vs. Deep Learning on a Tabular Traffic Dataset in Big Data\nDalyapraz Manatova and Jongwook Woo\nKSII Asia Pacific International Conference on Information Science and Technology (APIC-IST), 2023.\nDesigning a Vulnerability Management Dashboard to Enhance Security Analysts’ Decision-Making Processes\nDalyapraz Manatova, Inna Kouper, and Sagar Samtani\nPractice and Experience in Advanced Research Computing (PEARC), 2022."
+  },
+  {
+    "objectID": "publications.html#dissertation",
+    "href": "publications.html#dissertation",
+    "title": "Publications",
+    "section": "Dissertation",
+    "text": "Dissertation\n\nModeling Resilience in Cybercrime Networks\nDalyapraz Manatova\nPh.D. Dissertation, Indiana University, 2026.\nCommittee: L. Jean Camp, Inna Kouper, Cathleen McGrath, Filippo Radicchi, and Cici Ling."
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV",
+    "section": "",
+    "text": "You can view my current CV below or download it directly.\nDownload CV"
   }
 ]
