@@ -1,5 +1,47 @@
 [
   {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV",
+    "section": "",
+    "text": "Last updated: May 2026.\nDownload CV"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Community Concealment from Unsupervised Graph Learning-Based Clustering\nDalyapraz Manatova, Pablo Moriano, and L. Jean Camp\narXiv preprint, 2026."
+  },
+  {
+    "objectID": "publications.html#preprints",
+    "href": "publications.html#preprints",
+    "title": "Publications",
+    "section": "",
+    "text": "Community Concealment from Unsupervised Graph Learning-Based Clustering\nDalyapraz Manatova, Pablo Moriano, and L. Jean Camp\narXiv preprint, 2026."
+  },
+  {
+    "objectID": "publications.html#journal-articles",
+    "href": "publications.html#journal-articles",
+    "title": "Publications",
+    "section": "Journal Articles",
+    "text": "Journal Articles\n\nThe Organizational Anatomy of Cybercrime: A Multilayer Framework for Modeling Resilience\nDalya Manatova, Cathleen McGrath, and L. Jean Camp\nJournal of Cybersecurity, in press.\nUnderstand Your Shady Neighborhood: An Approach for Detecting and Investigating Hacker Communities\nDalya Manatova, Charles DeVries, and Sagar Samtani\nDecision Support Systems, 184, 114271, 2024.\nBig Data Analysis and Prediction of Traffic in Los Angeles\nDalya Manatova and Jongwook Woo\nKSII Transactions on Internet and Information Systems, 14(2), 841–854, 2020."
+  },
+  {
+    "objectID": "publications.html#conference-proceedings",
+    "href": "publications.html#conference-proceedings",
+    "title": "Publications",
+    "section": "Conference Proceedings",
+    "text": "Conference Proceedings\n\nFrom Lamborghinis to Ladas: Empirical Analysis of LockBit’s Business Operations\nIan W. Gray, Dalyapraz Manatova, Kris Oosthoek, and Damon McCoy\nAPWG Symposium on Electronic Crime Research (eCrime), 2025.\nIs Ransomware an Economically Distinct Attack Type? An Event Study of Market Reactions\nAmbarish Gurjar, Dalyapraz Manatova, Benjamin Staples, Spencer Chambers, and L. Jean Camp\nAPWG Symposium on Electronic Crime Research (eCrime), 2025.\nAn Argument for Linguistic Expertise in Cyberthreat Analysis: LOLSec in Russian Language eCrime Landscape\nDalyapraz Manatova, L. Jean Camp, Julia R. Fox, Sandra Kuebler, Maria A. Shardakova, and Inna Kouper\nIEEE European Symposium on Security and Privacy Workshops (EuroS&PW), 2023.\nBuilding and Testing a Network of Social Trust in an Underground Forum: Robust Connections and Overlapping Criminal Domains\nDalyapraz Manatova, Dewesha Sharma, Sagar Samtani, and L. Jean Camp\nAPWG Symposium on Electronic Crime Research (eCrime), 2022.\nMachine Learning vs. Deep Learning on a Tabular Traffic Dataset in Big Data\nDalyapraz Manatova and Jongwook Woo\nKSII Asia Pacific International Conference on Information Science and Technology (APIC-IST), 2023.\nDesigning a Vulnerability Management Dashboard to Enhance Security Analysts’ Decision-Making Processes\nDalyapraz Manatova, Inna Kouper, and Sagar Samtani\nPractice and Experience in Advanced Research Computing (PEARC), 2022."
+  },
+  {
+    "objectID": "publications.html#dissertation",
+    "href": "publications.html#dissertation",
+    "title": "Publications",
+    "section": "Dissertation",
+    "text": "Dissertation\n\nModeling Resilience in Cybercrime Networks\nDalyapraz Manatova\nPh.D. Dissertation, Indiana University, 2026.\nCommittee: L. Jean Camp, Inna Kouper, Cathleen McGrath, Filippo Radicchi, and Cici Ling."
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Dalya Manatova",
