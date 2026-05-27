@@ -55,12 +55,8 @@ title: "Teaching & Service"
 
 ## Peer Review and Program Committee Service
 
-### Journal Reviewing
-
 - **Decision Support Systems**  
   Journal reviewer.
-
-### Program Committee / Workshop Reviewing
 
 - **WEIS** -- Workshop on the Economics of Information Security  
   Program committee / reviewer.
