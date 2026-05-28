@@ -13,8 +13,8 @@ website:
     image: images/dalya-profile.jpg
   navbar:
     right:
-      - text: Research
-        href: research.qmd
+      # - text: Research
+      #   href: research.qmd
       - text: Publications
         href: publications.qmd
       - text: Talks
