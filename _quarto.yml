@@ -1,8 +1,10 @@
 project:
   type: website
-
+  resources:
+    - CNAME
 website:
   title: "Dalya Manatova"
+  site-url: https://dalya.info
   favicon: files/icon.svg
   navbar:
     right:
