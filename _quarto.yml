@@ -3,6 +3,7 @@ project:
 
 website:
   title: "Dalya Manatova"
+  favicon: files/icon.svg
   navbar:
     right:
       - text: Research

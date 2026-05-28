@@ -9,19 +9,19 @@ title: "Teaching & Service"
   **Lead Associate Instructor**, Spring 2023  
   **Associate Instructor**, Spring 2022, Spring 2026  
   This course introduces students to mathematical and programming tools used in modern security research and practice, including functional programming, probability theory, analysis of algorithms, complexity theory, number theory, and group theory.  
-  As Lead Associate Instructor, I managed teaching assistants, designed assignments, prepared homework solutions, held office hours, graded homework and exams, and occasionally taught class sessions. 
+  As Lead Associate Instructor, I managed teaching assistants, designed assignments, prepared homework solutions, held office hours, graded homework and exams, and occasionally taught class sessions. \
   As Associate Instructor, I graded homework, quizzes, and exams; held office hours; and prepared homework solutions.
 
 - **I535 Economics of Information Security**  
   **Lead Associate Instructor**, Fall 2024  
   **Associate Instructor**, Fall 2022  
   This graduate seminar examines economic measures of cybercrime, interactions among actors and institutions involved in cybercrime, risk perception, usability, privacy, and rational evaluation of risk in e-crime contexts. I supported students in navigating current research and theoretical perspectives on cybercrime and information security economics.  
-  As Lead Associate Instructor, I managed teaching assistants, designed assignments, prepared solutions, held office hours, graded homework and exams, and occasionally manages class discussion sessions. 
+  As Lead Associate Instructor, I managed teaching assistants, designed assignments, prepared solutions, held office hours, graded homework and exams, and occasionally manages class discussion sessions. \
   As Associate Instructor, I graded assignments and exams, held office hours, and supported student learning.
 
 - **I495 Design and Development of Information Systems**  
   **Associate Instructor**, Fall 2020 and Spring 2021  
-  This capstone course guides senior students through the full cycle of system development in teams, including project scoping, user evaluation, front-end and back-end development, testing, and presentation of a working system. 
+  This capstone course guides senior students through the full cycle of system development in teams, including project scoping, user evaluation, front-end and back-end development, testing, and presentation of a working system. \
   As Associate Instructor,I met weekly with student groups, tracked project progress, consulted on development challenges, and helped teams translate start-up-style ideas into feasible and usable information systems. One of the teams I mentored, [**Arts at IU**](https://zion.luddy.indiana.edu/info-capstone-2021/arts-at-iu#project), received the **Top Project Recognition Award** in 2021.
 
 ### California State University, Los Angeles

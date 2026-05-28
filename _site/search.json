@@ -42,60 +42,25 @@
     "text": "Dissertation\n\nModeling Resilience in Cybercrime Networks\nDalyapraz Manatova\nPh.D. Dissertation, Indiana University, 2026.\nCommittee: L. Jean Camp, Inna Kouper, Cathleen McGrath, Filippo Radicchi, and Cici Ling."
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Dalya Manatova",
-    "section": "",
-    "text": "Google Scholar  GitHub  LinkedIn  X/Twitter RG ResearchGate  Email\nI study how adversarial, outlawed, and socio-technical communities organize, coordinate, persist, and adapt. My research combines network science, graph learning, discourse analysis, and organizational theory to model cybercrime ecosystems, ransomware operations, underground communities, and open-source software coordination.\nI am especially interested in resilience, interdependence, specialization, and supply-chain structures in these communities that operate under disruption, concealment, or adversarial pressure."
-  },
-  {
-    "objectID": "index.html#research-areas",
-    "href": "index.html#research-areas",
-    "title": "Dalya Manatova",
-    "section": "Research Areas",
-    "text": "Research Areas\n\nGraph Learning, Community Detection, and Group Privacy\nI study how groups are detected, clustered, and concealed in attributed networks, including adversarial community hiding from graph-learning-based clustering.\n\n\nOpen-Source Software Coordination\nI model patch review workflows, maintainer coordination, contributor specialization, and vulnerability exposure in open-source software communities.\n\n\nCybercrime Organizations and Resilience\nI model cybercriminal collectives as organizational and networked systems, with attention to structure, specialization, norms, shared goals, and relationships.\n\n\nComputational Organizational Science\nI combine network analysis, computational linguistics, graph learning, and theory-informed qualitative methods to study collective behavior in adversarial and socio-technical systems."
-  },
-  {
-    "objectID": "index.html#current-projects",
-    "href": "index.html#current-projects",
-    "title": "Dalya Manatova",
-    "section": "Current Projects",
-    "text": "Current Projects\n\nTemporal Graphs of OSS Patch Review Workflows\nModeling patch review, maintainer coordination, contributor specialization, and socio-technical dependencies in Linux kernel development.\n\n\nCommunity Hiding from Graph Learning-Based Clustering\nStudying how groups can evade or resist GNN-based community detection in attributed networks, with implications for group privacy, surveillance, and adversarial adaptation.\n\n\nRansomware Operations and Supply-Chain Simulation\nDeveloping simulation models of ransomware operations to better understand cybercrime supply chains, task interdependencies, disruption, and operational recovery.\n\n\nOrganizational Anatomy of Cybercrime\nDeveloping multilayer models of cybercrime organizational resilience by analyzing structure, specialization, rules and norms, shared goals, and relationship dynamics."
-  },
-  {
-    "objectID": "index.html#selected-publications-and-preprints",
-    "href": "index.html#selected-publications-and-preprints",
-    "title": "Dalya Manatova",
-    "section": "Selected Publications and Preprints",
-    "text": "Selected Publications and Preprints\n\nManatova, D., McGrath, C., & Camp, L. J. In press. “The Organizational Anatomy of Cybercrime: A Multilayer Framework for Modeling Resilience.” Journal of Cybersecurity. https://doi.org/10.1093/cybsec/tyag014\nManatova, D., Moriano, P., & Camp, L. J. 2026. “Community Concealment from Unsupervised Graph Learning-Based Clustering.” arXiv. https://arxiv.org/abs/2602.12250\nManatova, D., DeVries, C., & Samtani, S. 2024. “Understand Your Shady Neighborhood: An Approach for Detecting and Investigating Hacker Communities.” Decision Support Systems.\nManatova, D., Camp, L. J., Fox, J. R., Kuebler, S., Shardakova, M. A., & Kouper, I. 2023. “An Argument for Linguistic Expertise in Cyberthreat Analysis: LOLSec in Russian Language eCrime Landscape.” IEEE European Symposium on Security and Privacy Workshops.\nManatova, D., Sharma, D., Samtani, S., & Camp, L. J. 2022. “Building and Testing a Network of Social Trust in an Underground Forum: Robust Connections and Overlapping Criminal Domains.” APWG Symposium on Electronic Crime Research.\n\nView all publications\n\nView all talks"
-  },
-  {
-    "objectID": "index.html#contact",
-    "href": "index.html#contact",
-    "title": "Dalya Manatova",
-    "section": "Contact",
-    "text": "Contact\nEmail: dalya.manatova@charlotte.edu"
-  },
-  {
     "objectID": "teaching-service.html",
     "href": "teaching-service.html",
     "title": "Teaching & Service",
     "section": "",
-    "text": "I231 Mathematics of Cybersecurity / Introduction to Cryptography\nLead Associate Instructor, Spring 2023\nAssociate Instructor, Spring 2022, Spring 2026\nThis course introduces students to mathematical and programming tools used in modern security research and practice, including functional programming, probability theory, analysis of algorithms, complexity theory, number theory, and group theory.\nAs Lead Associate Instructor, I managed teaching assistants, designed assignments, prepared homework solutions, held office hours, graded homework and exams, and occasionally taught class sessions. As Associate Instructor, I graded homework, quizzes, and exams; held office hours; and prepared homework solutions.\nI535 Economics of Information Security\nLead Associate Instructor, Fall 2024\nAssociate Instructor, Fall 2022\nThis graduate seminar examines economic measures of cybercrime, interactions among actors and institutions involved in cybercrime, risk perception, usability, privacy, and rational evaluation of risk in e-crime contexts. I supported students in navigating current research and theoretical perspectives on cybercrime and information security economics.\nAs Lead Associate Instructor, I managed teaching assistants, designed assignments, prepared solutions, held office hours, graded homework and exams, and occasionally manages class discussion sessions. As Associate Instructor, I graded assignments and exams, held office hours, and supported student learning.\nI495 Design and Development of Information Systems\nAssociate Instructor, Fall 2020 and Spring 2021\nThis capstone course guides senior students through the full cycle of system development in teams, including project scoping, user evaluation, front-end and back-end development, testing, and presentation of a working system. As Associate Instructor,I met weekly with student groups, tracked project progress, consulted on development challenges, and helped teams translate start-up-style ideas into feasible and usable information systems. One of the teams I mentored, Arts at IU, received the Top Project Recognition Award in 2021.\n\n\n\n\n\nFundamentals of Information Systems\nTeaching Assistant, Fall 2018 and Spring 2019\nSupported instruction, grading, and student learning in an introductory information systems course."
+    "text": "I231 Mathematics of Cybersecurity / Introduction to Cryptography\nLead Associate Instructor, Spring 2023\nAssociate Instructor, Spring 2022, Spring 2026\nThis course introduces students to mathematical and programming tools used in modern security research and practice, including functional programming, probability theory, analysis of algorithms, complexity theory, number theory, and group theory.\nAs Lead Associate Instructor, I managed teaching assistants, designed assignments, prepared homework solutions, held office hours, graded homework and exams, and occasionally taught class sessions.\nAs Associate Instructor, I graded homework, quizzes, and exams; held office hours; and prepared homework solutions.\nI535 Economics of Information Security\nLead Associate Instructor, Fall 2024\nAssociate Instructor, Fall 2022\nThis graduate seminar examines economic measures of cybercrime, interactions among actors and institutions involved in cybercrime, risk perception, usability, privacy, and rational evaluation of risk in e-crime contexts. I supported students in navigating current research and theoretical perspectives on cybercrime and information security economics.\nAs Lead Associate Instructor, I managed teaching assistants, designed assignments, prepared solutions, held office hours, graded homework and exams, and occasionally manages class discussion sessions.\nAs Associate Instructor, I graded assignments and exams, held office hours, and supported student learning.\nI495 Design and Development of Information Systems\nAssociate Instructor, Fall 2020 and Spring 2021\nThis capstone course guides senior students through the full cycle of system development in teams, including project scoping, user evaluation, front-end and back-end development, testing, and presentation of a working system.\nAs Associate Instructor,I met weekly with student groups, tracked project progress, consulted on development challenges, and helped teams translate start-up-style ideas into feasible and usable information systems. One of the teams I mentored, Arts at IU, received the Top Project Recognition Award in 2021.\n\n\n\n\n\nFundamentals of Information Systems\nTeaching Assistant, Fall 2018 and Spring 2019\nSupported instruction, grading, and student learning in an introductory information systems course."
   },
   {
     "objectID": "teaching-service.html#teaching",
     "href": "teaching-service.html#teaching",
     "title": "Teaching & Service",
     "section": "",
-    "text": "I231 Mathematics of Cybersecurity / Introduction to Cryptography\nLead Associate Instructor, Spring 2023\nAssociate Instructor, Spring 2022, Spring 2026\nThis course introduces students to mathematical and programming tools used in modern security research and practice, including functional programming, probability theory, analysis of algorithms, complexity theory, number theory, and group theory.\nAs Lead Associate Instructor, I managed teaching assistants, designed assignments, prepared homework solutions, held office hours, graded homework and exams, and occasionally taught class sessions. As Associate Instructor, I graded homework, quizzes, and exams; held office hours; and prepared homework solutions.\nI535 Economics of Information Security\nLead Associate Instructor, Fall 2024\nAssociate Instructor, Fall 2022\nThis graduate seminar examines economic measures of cybercrime, interactions among actors and institutions involved in cybercrime, risk perception, usability, privacy, and rational evaluation of risk in e-crime contexts. I supported students in navigating current research and theoretical perspectives on cybercrime and information security economics.\nAs Lead Associate Instructor, I managed teaching assistants, designed assignments, prepared solutions, held office hours, graded homework and exams, and occasionally manages class discussion sessions. As Associate Instructor, I graded assignments and exams, held office hours, and supported student learning.\nI495 Design and Development of Information Systems\nAssociate Instructor, Fall 2020 and Spring 2021\nThis capstone course guides senior students through the full cycle of system development in teams, including project scoping, user evaluation, front-end and back-end development, testing, and presentation of a working system. As Associate Instructor,I met weekly with student groups, tracked project progress, consulted on development challenges, and helped teams translate start-up-style ideas into feasible and usable information systems. One of the teams I mentored, Arts at IU, received the Top Project Recognition Award in 2021.\n\n\n\n\n\nFundamentals of Information Systems\nTeaching Assistant, Fall 2018 and Spring 2019\nSupported instruction, grading, and student learning in an introductory information systems course."
+    "text": "I231 Mathematics of Cybersecurity / Introduction to Cryptography\nLead Associate Instructor, Spring 2023\nAssociate Instructor, Spring 2022, Spring 2026\nThis course introduces students to mathematical and programming tools used in modern security research and practice, including functional programming, probability theory, analysis of algorithms, complexity theory, number theory, and group theory.\nAs Lead Associate Instructor, I managed teaching assistants, designed assignments, prepared homework solutions, held office hours, graded homework and exams, and occasionally taught class sessions.\nAs Associate Instructor, I graded homework, quizzes, and exams; held office hours; and prepared homework solutions.\nI535 Economics of Information Security\nLead Associate Instructor, Fall 2024\nAssociate Instructor, Fall 2022\nThis graduate seminar examines economic measures of cybercrime, interactions among actors and institutions involved in cybercrime, risk perception, usability, privacy, and rational evaluation of risk in e-crime contexts. I supported students in navigating current research and theoretical perspectives on cybercrime and information security economics.\nAs Lead Associate Instructor, I managed teaching assistants, designed assignments, prepared solutions, held office hours, graded homework and exams, and occasionally manages class discussion sessions.\nAs Associate Instructor, I graded assignments and exams, held office hours, and supported student learning.\nI495 Design and Development of Information Systems\nAssociate Instructor, Fall 2020 and Spring 2021\nThis capstone course guides senior students through the full cycle of system development in teams, including project scoping, user evaluation, front-end and back-end development, testing, and presentation of a working system.\nAs Associate Instructor,I met weekly with student groups, tracked project progress, consulted on development challenges, and helped teams translate start-up-style ideas into feasible and usable information systems. One of the teams I mentored, Arts at IU, received the Top Project Recognition Award in 2021.\n\n\n\n\n\nFundamentals of Information Systems\nTeaching Assistant, Fall 2018 and Spring 2019\nSupported instruction, grading, and student learning in an introductory information systems course."
   },
   {
-    "objectID": "teaching-service.html#teaching-1",
-    "href": "teaching-service.html#teaching-1",
+    "objectID": "teaching-service.html#guest-lectures",
+    "href": "teaching-service.html#guest-lectures",
     "title": "Teaching & Service",
-    "section": "Teaching",
-    "text": "Teaching\n\nIndiana University\n\nI231 Mathematics of Cybersecurity / Introduction to Cryptography\nLead Associate Instructor, Spring 2023\nAssociate Instructor, Spring 2026\nThis course introduces students to mathematical and programming tools used in modern security research and practice, including functional programming, probability theory, analysis of algorithms, complexity theory, number theory, and group theory.\nAs Lead Associate Instructor, I managed teaching assistants, designed assignments, prepared homework solutions, held office hours, graded homework and exams, and occasionally taught class sessions. As Associate Instructor, I graded homework, quizzes, and exams; held office hours; and prepared homework solutions.\nI535 Economics of Information Security\nLead Associate Instructor, Fall 2024\nAssociate Instructor, Fall 2022\nThis graduate seminar examines economic measures of cybercrime, interactions among actors and institutions involved in cybercrime, risk perception, usability, privacy, and rational evaluation of risk in e-crime contexts. I supported students in navigating current research and theoretical perspectives on cybercrime and information security economics.\nAs Lead Associate Instructor, I managed teaching assistants, designed assignments, prepared homework solutions, held office hours, graded homework and exams, and occasionally taught class sessions. As Associate Instructor, I graded assignments and exams, held office hours, and supported student learning.\nI495 Design and Development of Information Systems\nAssociate Instructor, Fall 2020 and Spring 2021\nThis capstone course guides senior students through the full cycle of system development in teams, including project scoping, user evaluation, front-end and back-end development, testing, and presentation of a working system. I met weekly with student groups, tracked project progress, consulted on development challenges, and helped teams translate start-up-style ideas into feasible and usable information systems. One of the teams I mentored received the Top Project Recognition Award in 2021.\n\n\n\nCalifornia State University, Los Angeles\n\nFundamentals of Information Systems\nTeaching Assistant, Fall 2018 and Spring 2019\nSupported instruction, grading, and student learning in an introductory information systems course."
+    "section": "Guest Lectures",
+    "text": "Guest Lectures\n\nThe Business of Cybercrime: Detection, Resilience, Relationships\nGuest Lecturer, Management Information Systems, California State University, Los Angeles, October 2025.\nMarketplaces: History and Trends in Cryptomarkets\nGuest Lecturer, Economics of Information Security, Indiana University, November 2024.\nExploring Social Network of Trust Across Major Crime Types in an Underground Forum\nGuest Lecturer, Management Information Systems, California State University, Los Angeles, January 2023."
   },
   {
     "objectID": "teaching-service.html#mentoring",
@@ -103,13 +68,6 @@
     "title": "Teaching & Service",
     "section": "Mentoring",
     "text": "Mentoring\n\nMaksat Sharshekeev\nUndergraduate Research Opportunities in Computing, Indiana University, Fall 2023\nMentored undergraduate research on qualitative coding, conversation analysis, and social network analysis.\n\nMaksat Sharshekeev, Dalya Manatova, and L. Jean Camp. “Cybercriminal Organized Group: Social Network of a Hacker.” Research Poster Panel, Indiana University, 2023.\n\nNadia Sabry\nUndergraduate Research Opportunities in Computing, Indiana University, 2022–2023\nMentored undergraduate research on extracting organizational structure from textual communications.\n\nNadia Sabry, Dalya Manatova, and L. Jean Camp. “Uncovering the Organizational Hierarchy of a Cybercriminal Group: Story of a Ransomware Gang.” Research Poster Panel, Indiana University, 2023."
-  },
-  {
-    "objectID": "index.html#peer-review-and-program-committee-service",
-    "href": "index.html#peer-review-and-program-committee-service",
-    "title": "Dalya Manatova",
-    "section": "Peer Review and Program Committee Service",
-    "text": "Peer Review and Program Committee Service\n\nDecision Support Systems\nJournal reviewer.\nWEIS – Workshop on the Economics of Information Security\nProgram committee / reviewer.\nNDSS Workshop on AI Systems with Confidential Computing\nProgram committee / reviewer."
   },
   {
     "objectID": "teaching-service.html#peer-review-and-program-committee-service",
@@ -126,17 +84,38 @@
     "text": "Volunteering and Outreach\n\nDesign Thinking Class, California State University, Los Angeles\nProject Mentor for M.S. Information Systems and MBA students, 2021.\nData Science Course, Data Application Lab\nProject Tutor, 2019–2020.\nSheLovesData\nPython and SQL Instructor, 2019–2021.\nInternational Data Engineering and Science Association (IDEAS)\nCommunity Manager, 2018–2020."
   },
   {
-    "objectID": "teaching-service.html#guest-lectures",
-    "href": "teaching-service.html#guest-lectures",
-    "title": "Teaching & Service",
-    "section": "Guest Lectures",
-    "text": "Guest Lectures\n\nThe Business of Cybercrime: Detection, Resilience, Relationships\nGuest Lecturer, Management Information Systems, California State University, Los Angeles, October 2025.\nMarketplaces: History and Trends in Cryptomarkets\nGuest Lecturer, Economics of Information Security, Indiana University, November 2024.\nExploring Social Network of Trust Across Major Crime Types in an Underground Forum\nGuest Lecturer, Management Information Systems, California State University, Los Angeles, January 2023."
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Dalya Manatova",
+    "section": "",
+    "text": "Google Scholar  GitHub  LinkedIn  X/Twitter RG ResearchGate  Email\nI study how adversarial, outlawed, and socio-technical communities organize, coordinate, persist, and adapt. My research combines network science, graph learning, discourse analysis, and organizational theory to model cybercrime ecosystems, ransomware operations, underground communities, and open-source software coordination.\nI am especially interested in resilience, interdependence, specialization, and supply-chain structures in these communities that operate under disruption, concealment, or adversarial pressure."
   },
   {
-    "objectID": "teaching-service.html#mentoring-1",
-    "href": "teaching-service.html#mentoring-1",
-    "title": "Teaching & Service",
-    "section": "Mentoring",
-    "text": "Mentoring\n\nMaksat Sharshekeev\nUndergraduate Research Opportunities in Computing, Indiana University, Fall 2023\nMentored undergraduate research on qualitative coding, conversation analysis, and social network analysis.\n\nMaksat Sharshekeev, Dalya Manatova, and L. Jean Camp. “Cybercriminal Organized Group: Social Network of a Hacker.” Research Poster Panel, Indiana University, 2023.\n\nNadia Sabry\nUndergraduate Research Opportunities in Computing, Indiana University, 2022–2023\nMentored undergraduate research on extracting organizational structure from textual communications.\n\nNadia Sabry, Dalya Manatova, and L. Jean Camp. “Uncovering the Organizational Hierarchy of a Cybercriminal Group: Story of a Ransomware Gang.” Research Poster Panel, Indiana University, 2023."
+    "objectID": "index.html#current-projects",
+    "href": "index.html#current-projects",
+    "title": "Dalya Manatova",
+    "section": "Current Projects",
+    "text": "Current Projects\n\nTemporal Graphs of Open-Source Software Patch Review Workflows\nModeling patch review workflows, contributor/maintainer coordination and socio-technical dependencies in Linux kernel development.\n\n\nCommunity Hiding from Graph Learning-Based Clustering\nStudying how groups can evade or resist GNN-based community detection in attributed networks, with implications for group privacy, surveillance, and adversarial adaptation.\n\n\nRansomware Operations and Supply-Chain Simulation\nDeveloping simulation models of ransomware operations to better understand cybercrime supply chains, task interdependencies, disruption, and operational recovery.\n\n\nOrganizational Anatomy of Cybercrime\nDeveloping multilayer models of cybercrime organizational resilience by analyzing structure, specialization, rules and norms, shared goals, and relationship dynamics."
+  },
+  {
+    "objectID": "index.html#selected-publications-and-preprints",
+    "href": "index.html#selected-publications-and-preprints",
+    "title": "Dalya Manatova",
+    "section": "Selected Publications and Preprints",
+    "text": "Selected Publications and Preprints\n\nManatova, D., McGrath, C., & Camp, L. J. In press. “The Organizational Anatomy of Cybercrime: A Multilayer Framework for Modeling Resilience.” Journal of Cybersecurity. https://doi.org/10.1093/cybsec/tyag014\nManatova, D., Moriano, P., & Camp, L. J. 2026. “Community Concealment from Unsupervised Graph Learning-Based Clustering.” arXiv. https://arxiv.org/abs/2602.12250\nManatova, D., DeVries, C., & Samtani, S. 2024. “Understand Your Shady Neighborhood: An Approach for Detecting and Investigating Hacker Communities.” Decision Support Systems.\nManatova, D., Camp, L. J., Fox, J. R., Kuebler, S., Shardakova, M. A., & Kouper, I. 2023. “An Argument for Linguistic Expertise in Cyberthreat Analysis: LOLSec in Russian Language eCrime Landscape.” IEEE European Symposium on Security and Privacy Workshops.\nManatova, D., Sharma, D., Samtani, S., & Camp, L. J. 2022. “Building and Testing a Network of Social Trust in an Underground Forum: Robust Connections and Overlapping Criminal Domains.” APWG Symposium on Electronic Crime Research.\n\nView all publications"
+  },
+  {
+    "objectID": "index.html#peer-review-and-program-committee-service",
+    "href": "index.html#peer-review-and-program-committee-service",
+    "title": "Dalya Manatova",
+    "section": "Peer Review and Program Committee Service",
+    "text": "Peer Review and Program Committee Service\n\nDecision Support Systems\nJournal reviewer.\nWEIS – Workshop on the Economics of Information Security\nProgram committee / reviewer.\nNDSS Workshop on AI Systems with Confidential Computing\nProgram committee / reviewer."
+  },
+  {
+    "objectID": "index.html#contact",
+    "href": "index.html#contact",
+    "title": "Dalya Manatova",
+    "section": "Contact",
+    "text": "Contact\nEmail: dalya.manatova АТ charlotte ДОТ edu"
   }
 ]
