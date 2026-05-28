@@ -1,0 +1,27 @@
+<svg width="512" height="512" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+    <!-- background -->
+    <rect width="512" height="512" rx="96" fill="#1f2937"/>
+
+    <!-- network motif --> 
+    <line x1="37" y1="137" x2="379" y2="179" stroke="#d1d5db" stroke-width="10" stroke-linecap="round"/> 
+    <line x1="379" y1="179" x2="431" y2="313" stroke="#d1d5db" stroke-width="10" stroke-linecap="round"/> 
+    <line x1="37" y1="137" x2="211" y2="89" stroke="#d1d5db" stroke-width="10" stroke-linecap="round"/> 
+    <line x1="211" y1="89" x2="431" y2="313" stroke="#d1d5db" stroke-width="10" stroke-linecap="round"/> 
+    <line x1="167" y1="401" x2="431" y2="313" stroke="#d1d5db" stroke-width="10" stroke-linecap="round"/> 
+    
+    <circle cx="37" cy="137" r="17" fill="#f9fafb"/> 
+    <circle cx="167" cy="401" r="17" fill="#f9fafb"/> 
+    <circle cx="431" cy="313" r="23" fill="#f9fafb"/> 
+    <circle cx="379" cy="179" r="17" fill="#f9fafb"/> 
+    <circle cx="211" cy="89" r="17" fill="#f9fafb"/> 
+    
+    <!-- name --> 
+    <text x="56" y="306" 
+        font-family="monospace" 
+        font-size="117" 
+        font-weight="700" 
+        fill="#f9fafb" 
+        letter-spacing="-5"> 
+        dalya 
+    </text> 
+ </svg>
