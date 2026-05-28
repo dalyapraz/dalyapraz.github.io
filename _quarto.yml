@@ -4,8 +4,13 @@ project:
     - CNAME
 website:
   title: "Dalya Manatova"
+  description: "Dalya Manatova is a postdoctoral researcher at UNC Charlotte studying cybercrime ecosystems, adversarial communities, network science, graph learning, and computational organizational analysis."
   site-url: https://dalya.info
   favicon: files/icon.svg
+  open-graph: true
+  twitter-card:
+    creator: "@dalyapraz"
+    image: images/dalya-profile.jpg
   navbar:
     right:
       - text: Research

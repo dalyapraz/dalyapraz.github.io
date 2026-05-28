@@ -57,6 +57,7 @@ title: "Publications"
 - [**Designing a Vulnerability Management Dashboard to Enhance Security Analysts' Decision-Making Processes**](https://doi.org/10.1145/3491418.3535176)  
   Dalyapraz Manatova, Inna Kouper, and Sagar Samtani  
   *Practice and Experience in Advanced Research Computing (PEARC)*, 2022.  
+  [Poster](https://pearc.acm.org/pearc22/wp-content/uploads/2022/07/Vulnerability-Management-Dashboard-Manatova-Kouper-Samtani.pdf)  
 
 
 ## Dissertation

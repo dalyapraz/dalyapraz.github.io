@@ -50,7 +50,8 @@ title: "Talks"
   HotSoS Symposium, April 2024.
 
 - **Organizational and Social Dynamics of a Cybercriminal Group: A Case of Russian Ransomware Gang**  
-  Research Series Talk, Ostrom Workshop, Bloomington, IN, March 2024.
+  Research Series Talk, Ostrom Workshop, Bloomington, IN, March 2024.  
+  [Video](https://www.youtube.com/watch?v=Ajajc5otsp4)
 
 - **Social, Linguistic, and Organizational Analyses of Russian eCrime Forums**  
   M3AAWG, San Francisco, CA, February 2024.
