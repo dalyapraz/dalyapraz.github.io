@@ -1,3 +1,76 @@
 ---
 title: "Talks"
 ---
+
+
+## Invited Talks, Conference Presentations, and Seminars
+
+### 2025
+
+- **Hiding a Group of Nodes from Unsupervised Graph Learning-Based Clustering**  
+  Mathematics in Computation Seminar Series, Oak Ridge National Laboratory, Oak Ridge, TN, August 2025.
+
+- WIP: **Modeling Organizational Resilience: A Network-Based Simulation for Analyzing Recovery and Disruption of Ransomware Operations**  
+  Cambridge Cybercrime Conference, Cambridge, UK, June 2025.  
+  [Conference program](https://www.cambridgecybercrime.uk/conference2025.html) · [Liveblog mention](https://www.lightbluetouchpaper.org/2025/06/25/cambridge-cybercrime-conference-2025-liveblog/)
+
+- **Relationships Matter: Modeling Dynamics of Cybercriminal Commodity-Based Groups Using Linguistic Analysis and Theories of Organization**  
+  Cybersecurity at MIT Sloan, CAMS, January 2025.
+
+
+### 2024
+
+- **Relationships Matter: Linguistic Analysis behind the Organizational Dynamics of a Ransomware Gang**
+  Cognitive Security Institute, October 2024.  
+  [Video](https://www.youtube.com/watch?v=wsrS2Gfxmyo)
+
+- **Relationships Matter: Reconstructing the Organizational Structure of a Ransomware Group**  
+  APWG Symposium on Electronic Crime Research, Boston, MA, September 2024.
+
+- **Relationships Matter: Reconstructing the Organizational and Social Structure of a Ransomware Gang** 
+  Black Hat USA, Las Vegas, NV, August 2024.  
+  [Video](https://www.youtube.com/watch?v=2hx4oq_kaI8) · [Black Hat briefing](https://www.blackhat.com/us-24/briefings/schedule/#relationships-matter-reconstructing-the-organizational-and-social-structure-of-a-ransomware-gang-39725) · [Podcast interview](https://redefining-society-podcast.simplecast.com/episodes/reconstructing-the-organizational-and-social-structure-of-a-ransomware-gang-a-black-hat-usa-2024-conversation-with-l-jean-camp-and-dalya-manatova-on-location-coverage-with-sean-martin-and-marco-ciappelli-sGyQ7b_7)
+
+- **Relationships Matter: Reconstructing the Organizational Structure of a Ransomware Group**  
+  Cybersecurity Seminar Series, USC Information Sciences Institute, Marina del Rey, CA, June 2024.  
+  [Event page](https://www.isi.edu/events/5021/relationships-matter-reconstructing-the-organizational-structure-of-a-ransomware-group/)
+
+- **Relationships Matter: Reconstructing the Organizational Structure of a Ransomware Group**
+  Cambridge Cybercrime Conference, Cambridge, UK, June 2024.  
+  [Conference program](https://www.cambridgecybercrime.uk/conference2024.html) · [Liveblog](https://www.lightbluetouchpaper.org/2024/06/11/cambridge-cybercrime-conference-2024-liveblog/)
+
+- **Relationships Matter: Reconstructing the Organizational Structure of a Ransomware Group**
+  Workshop on the Economics of Information Security, Dallas, TX, April 2024.  
+
+- **Social, Linguistic, and Organizational Analyses of Russian eCrime Forums**
+  Cybersecurity Seminar, Rose-Hulman Institute of Technology, Terre Haute, IN, April 2024.  
+  [Video](https://www.youtube.com/watch?v=B1Pm7Bh-Gdg)
+
+- **Building and Testing a Network of Social Trust in an Underground Forum**  
+  HotSoS Symposium, April 2024.
+
+- **Organizational and Social Dynamics of a Cybercriminal Group: A Case of Russian Ransomware Gang**  
+  Research Series Talk, Ostrom Workshop, Bloomington, IN, March 2024.
+
+- **Social, Linguistic, and Organizational Analyses of Russian eCrime Forums**  
+  M3AAWG, San Francisco, CA, February 2024.
+
+
+
+### 2023
+
+- **Social Network of Crimes on Dark Web**  
+  Cybersecurity Summer Institute, Georgia Tech, Atlanta, GA, May 2023.
+
+
+### 2022
+
+- **Exploring Social Network of Trust Across Major Crime Types in an Underground Forum**  
+  APWG Symposium on Electronic Crime Research, November 2022.
+
+<!--
+## Selected Media
+
+- [**Reconstructing the Organizational and Social Structure of a Ransomware Gang**](https://redefining-society-podcast.simplecast.com/episodes/reconstructing-the-organizational-and-social-structure-of-a-ransomware-gang-a-black-hat-usa-2024-conversation-with-l-jean-camp-and-dalya-manatova-on-location-coverage-with-sean-martin-and-marco-ciappelli-sGyQ7b_7)  
+  Black Hat USA 2024 conversation with L. Jean Camp, Sean Martin, and Marco Ciappelli.
+  -->
